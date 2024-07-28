@@ -29,6 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p> test</p>
+      <p>code from branch 1</p>
     </>
   )
 }
